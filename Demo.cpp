@@ -32,4 +32,9 @@ int main()
 	Demo obj1=obj;
 	obj.display();
 	obj1.display();
+	
+	
+	cout<<"Done with Demo.cpp";
+	
+	cout<<"Author : Sourabh Sharma Aksh Sharma"
 }
